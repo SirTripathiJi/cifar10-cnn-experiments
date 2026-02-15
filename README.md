@@ -1,4 +1,3 @@
-# cifar10-cnn-experiments
 # CIFAR-10 CNN Experiments
 
 Convolutional Neural Network (CNN) baseline trained on the CIFAR-10 dataset with structured experimentation and training curve analysis.
